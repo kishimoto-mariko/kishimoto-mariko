@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Intermediate"
+  description = "90%"
   
 [[feature]]
-  icon = "flask"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Marine biology"
-  description = "Expert"
+  name = "Statistics"
+  description = "100%"  
   
 [[feature]]
-  icon = "dna"
+  icon = "camera-retro"
   icon_pack = "fas"
-  name = "Genomics"
-  description = "Expert"
+  name = "Photography"
+  description = "10%"
 
 +++
