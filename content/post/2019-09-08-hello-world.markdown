@@ -1,0 +1,39 @@
+---
+title: Hello World!
+author: Kishimoto Mariko
+date: '2019-09-08'
+slug: hello-world
+categories: []
+tags: []
+subtitle: ''
+summary: 'Welcome to my new website!'
+authors: []
+lastmod: '2019-09-08T00:46:34+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+Hello Everyone,
+
+This is Mariko from Japan, and welcome You to my very new website which I created with [Blogdown](https://bookdown.org/yihui/blogdown/).
+
+I will post how I learn statistics and genomics using R and other tools. I will also post my participations in TidyTuesday!
+
+
+```r
+iris %>%
+  ggplot(aes(Sepal.Length, Sepal.Width, color = Species)) +
+  geom_point() +
+  theme_minimal() +
+  scale_colour_ghibli_d("LaputaMedium", direction = -1)
+```
+
+<img src="/post/2019-09-08-hello-world_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+
+
