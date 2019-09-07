@@ -13,12 +13,8 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-08T00:46:34+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
+    <lastmod>2019-09-08T00:56:59+09:00</lastmod>
   </url>
   
   <url>
@@ -30,15 +26,22 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-08T00:01:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2019-09-08T00:01:34+09:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2019-09-08T00:01:34+09:00</lastmod>
   </url>
   
   <url>

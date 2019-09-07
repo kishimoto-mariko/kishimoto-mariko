@@ -35,5 +35,3 @@ iris %>%
   theme_minimal() +
   scale_colour_ghibli_d("LaputaMedium", direction = -1)
 ```
-
-
